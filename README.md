@@ -1,8 +1,9 @@
 # GorMkrtchyan_SocialNetworkAnalysisHomework
 
 Social Network Analysis Homework
+
 Scenario
-As a member of the marketing department or a marketing agency, your objective is to identify key individuals to target within a limited budget. The dataset, connections.txt, consists of edges representing relationships. Your task is to assist the marketing specialist in determining the most impactful targets for effective resource allocation.
+As a member of the marketing department or a marketing agency, our objective is to identify key individuals to target within a limited budget. The dataset, connections.txt, consists of edges representing relationships. Our task is to assist the marketing specialist in determining the most impactful targets for effective resource allocation.
 
 Tasks
 1. Create a Directed Graph
